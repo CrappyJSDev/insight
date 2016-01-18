@@ -1,6 +1,6 @@
 {
   "name": "insight-bitcore",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the digibyte network and build your own services with it.",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the florincoin network and build your own services with it.",
   "version": "0.2.5",
     "engines": {
       "node": "0.10.36",
@@ -42,7 +42,7 @@
     "insight",
     "blockchain",
     "blockexplorer",
-    "digibyte",
+    "florincoin",
     "bitcore",
     "front-end"
   ],
@@ -50,7 +50,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "https://github.com/digibyte/insight-api.git"
+    "insight-bitcore-api": "https://github.com/crappyjsdev/insight-api.git#e9077e78158310f27b179732d73e20ade225a0bb"
   },
   "devDependencies": {
     "bower": "~1.2.8",

@@ -5,7 +5,7 @@ angular.module('insight').config(function($routeProvider) {
   $routeProvider.
     when('/block/:blockHash', {
       templateUrl: '/views/block.html',
-      title: 'Digibyte Block '
+      title: 'Florincoin Block '
     }).
     when('/block-index/:blockHeight', {
       controller: 'BlocksController',
@@ -17,7 +17,7 @@ angular.module('insight').config(function($routeProvider) {
     }).
     when('/tx/:txId/:v_type?/:v_index?', {
       templateUrl: '/views/transaction.html',
-      title: 'Digibyte Transaction '
+      title: 'Florincoin Transaction '
     }).
     when('/', {
       templateUrl: '/views/index.html',
@@ -25,15 +25,15 @@ angular.module('insight').config(function($routeProvider) {
     }).
     when('/blocks', {
       templateUrl: '/views/block_list.html',
-      title: 'Digibyte Blocks solved Today'
+      title: 'Florincoin Blocks solved Today'
     }).
     when('/blocks-date/:blockDate/:startTimestamp?', {
       templateUrl: '/views/block_list.html',
-      title: 'Digibyte Blocks solved '
+      title: 'Florincoin Blocks solved '
     }).
     when('/address/:addrStr', {
       templateUrl: '/views/address.html',
-      title: 'Digibyte Address '
+      title: 'Florincoin Address '
     }).
     when('/status', {
       templateUrl: '/views/status.html',
