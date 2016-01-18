@@ -22,14 +22,14 @@ msgstr "404 Página no encontrada :("
 
 #: public/views/index.html
 msgid ""
-"<strong>digie</strong>  is an <a href=\"http://digiexplorer.info/\" target="
+"<strong>digie</strong>  is an <a href=\"http://florinexplorer.info/\" target="
 "\"_blank\">open-source Florincoin blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by florincoind RPC.  "
 "Check out the <a href=\"http://github.com/bitpay/insight\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
-"<strong>digiexplorer</strong>  es un <a href=\"http://digiexplorer.info/\" target="
+"<strong>florinexplorer</strong>  es un <a href=\"http://florinexplorer.info/\" target="
 "\"_blank\">explorador de bloques de Bitcoin open-source</a> con un completo "
 "conjunto de REST y APIs de websockets que pueden ser usadas para escribir "
 "monederos de Florincoins y otras aplicaciones que requieran consultar un "
@@ -38,11 +38,11 @@ msgstr ""
 
 #: public/views/index.html
 msgid ""
-"<strong>digiexplorer</strong> is still in development, so be sure to report any "
+"<strong>florinexplorer</strong> is still in development, so be sure to report any "
 "bugs and provide feedback for improvement at our <a href=\"https://github."
 "com/bitpay/insight/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr ""
-"<strong>digiexplorer</strong> esta en desarrollo aún, por ello agradecemos que "
+"<strong>florinexplorer</strong> esta en desarrollo aún, por ello agradecemos que "
 "nos reporten errores o sugerencias para mejorar el software. <a href="
 "\"https://github.com/bitpay/insight/issues\" target=\"_blank\">Github issue "
 "tracker</a>."
@@ -97,8 +97,8 @@ msgstr ""
 "red p2p. (Se intentó conectar a florincoind de {{host}}:{{port}} y falló.)"
 
 #: public/views/includes/connection.html
-msgid "Can't connect to digiexplorer server. Attempting to reconnect..."
-msgstr "No se pudo conectar al servidor digiexplorer. Intentando re-conectar..."
+msgid "Can't connect to florinexplorer server. Attempting to reconnect..."
+msgstr "No se pudo conectar al servidor florinexplorer. Intentando re-conectar..."
 
 #: public/views/includes/connection.html
 msgid "Can't connect to internet. Please, check your connection."
@@ -121,8 +121,8 @@ msgid "Connections to other nodes"
 msgstr "Conexiones a otros nodos"
 
 #: public/views/status.html
-msgid "Current Blockchain Tip (digiexplorer)"
-msgstr "Actual Blockchain Tip (digiexplorer)"
+msgid "Current Blockchain Tip (florinexplorer)"
+msgstr "Actual Blockchain Tip (florinexplorer)"
 
 #: public/views/status.html
 msgid "Current Sync Status"

@@ -21,14 +21,14 @@ msgstr "404 ページがみつかりません (´・ω・`)"
 
 #: public/views/index.html
 msgid ""
-"<strong>digiexplorer</strong>  is an <a href=\"http://digiexplorer.info/\" target="
+"<strong>florinexplorer</strong>  is an <a href=\"http://florinexplorer.info/\" target="
 "\"_blank\">open-source Florincoin blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by florincoind RPC.  "
 "Check out the <a href=\"http://github.com/bitpay/insight\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
-"<strong>digiexplorer</strong>は、florincoind RPCの提供するものよりも詳細なブロック"
+"<strong>florinexplorer</strong>は、florincoind RPCの提供するものよりも詳細なブロック"
 "チェインへの問い合わせを必要とするウェブウォレットやその他のアプリを書くのに"
 "使える、完全なRESTおよびwebsocket APIを備えた<a href=\"http://live.insight."
 "is/\" target=\"_blank\">オープンソースのビットコインブロックエクスプローラ</"
@@ -37,11 +37,11 @@ msgstr ""
 
 #: public/views/index.html
 msgid ""
-"<strong>digiexplorer</strong> is still in development, so be sure to report any "
+"<strong>florinexplorer</strong> is still in development, so be sure to report any "
 "bugs and provide feedback for improvement at our <a href=\"https://github."
 "com/bitpay/insight/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr ""
-"<strong>digiexplorer</strong>は現在開発中です。<a href=\"https://github.com/"
+"<strong>florinexplorer</strong>は現在開発中です。<a href=\"https://github.com/"
 "bitpay/insight/issues\" target=\"_blank\">githubのissueトラッカ</a>にてバグの"
 "報告や改善案の提案をお願いします。"
 
@@ -111,8 +111,8 @@ msgstr ""
 "んでした。({{host}}:{{port}} への接続を試みましたが、失敗しました。)"
 
 #: public/views/includes/connection.html
-msgid "Can't connect to digiexplorer server. Attempting to reconnect..."
-msgstr "digiexplorer サーバに接続できません。再接続しています..."
+msgid "Can't connect to florinexplorer server. Attempting to reconnect..."
+msgstr "florinexplorer サーバに接続できません。再接続しています..."
 
 #: public/views/includes/connection.html
 msgid "Can't connect to internet. Please, check your connection."
@@ -135,8 +135,8 @@ msgid "Connections to other nodes"
 msgstr "他ノードへの接続"
 
 #: public/views/status.html
-msgid "Current Blockchain Tip (digiexplorer)"
-msgstr "現在のブロックチェインのTip (digiexplorer)"
+msgid "Current Blockchain Tip (florinexplorer)"
+msgstr "現在のブロックチェインのTip (florinexplorer)"
 
 #: public/views/status.html
 msgid "Current Sync Status"
